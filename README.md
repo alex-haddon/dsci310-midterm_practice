@@ -1,4 +1,4 @@
-# midterm_practice
+# Midterm_Practice
 
 This is my midterm practice. 
 
