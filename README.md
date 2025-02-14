@@ -1,4 +1,4 @@
-# Midterm_Practice
+# Midterm Practice for DSCI 310
 
 This is my midterm practice. 
 
